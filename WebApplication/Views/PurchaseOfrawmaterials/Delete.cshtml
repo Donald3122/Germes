@@ -1,0 +1,48 @@
+﻿@model WebApplication.Models.PurchaseOfrawmaterials
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<h3>Вы точно хотите удалить?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">Сырьё:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RawMaterialsNavigation.Name)
+        </dd class>
+
+        <dt class = "col-sm-2">Количество:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CountPur)
+        </dd>
+
+        <dt class = "col-sm-2">Сумма:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Sum)
+        </dd>
+
+        <dt class = "col-sm-2">Дата:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt class = "col-sm-2">Сотрудник:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmployeeNavigation.Fullname)
+        </dd class>
+
+        
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-danger" /> |
+        <a asp-action="Index">Назад</a>
+    </form>
+</div>

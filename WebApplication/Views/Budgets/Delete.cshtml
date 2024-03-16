@@ -1,0 +1,39 @@
+﻿@model WebApplication.Models.Budgets
+
+@{
+    ViewData["Title"] = "Удалить";
+}
+<h3>Вы точно хотите удалить?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Бюджет:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Budgetamount)
+        </dd>
+
+
+        <dt class = "col-sm-2">
+            Процент:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SalePercentage)
+        </dd>
+
+
+        <dt class = "col-sm-2">
+            Бонус:
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Bonus)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Удалить" class="btn btn-danger" /> |
+        <a asp-action="Index">Назад</a>
+    </form>
+</div>

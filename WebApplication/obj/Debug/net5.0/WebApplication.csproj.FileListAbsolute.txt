@@ -1,0 +1,613 @@
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Humanizer.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Index.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Create.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Delete.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Details.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Edit.cshtml.g.cs
+D:\3 курс\Декларативное программирование\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Create.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Delete.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Details.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Edit.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Index.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\User\Documents\WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.exe
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.deps.json
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.json
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.runtimeconfig.dev.json
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.AssemblyReference.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.AssemblyInfo.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\scopedcss\bundle\WebApplication.styles.css
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.input.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.TagHelpers.output.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorCoreGenerate.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Budgets\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Finproducts\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Ingredients\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Positions\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Productions\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\PurchaseOfrawmaterials\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Rawmaterials\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Salaries\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Saleofproducts\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Create.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Delete.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Details.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Edit.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\Units\Index.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.Views.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\refint\WebApplication.dll
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.pdb
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
+C:\Users\Donald\Desktop\WebApplication\WebApplication\obj\Debug\net5.0\ref\WebApplication.dll
